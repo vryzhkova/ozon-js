@@ -10,3 +10,4 @@
 ### Что сделали:
 - Модальное окно 
 - webpack
+- получение данных с сервера (JSONPlaceholder, JSON-Server, Firebase-JSON)
