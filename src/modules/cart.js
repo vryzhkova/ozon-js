@@ -7,7 +7,7 @@ const cart = () => {
     const cartCloseBtn = document.querySelector('.cart-close');
     const goodsWrapper = document.querySelector('.goods');
     const cartTotal = cartModal.querySelector('.cart-total > span');
-    const cartWrapper = document.querySelector('.cart-twrapper');
+    const cartWrapper = document.querySelector('.cart-wrapper');
     const cartSendBtn = cartModal.querySelector('.cart-confirm')
     
 
